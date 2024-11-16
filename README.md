@@ -19,7 +19,7 @@ Welcome to **Froggie Feeding Frenzy**, a dynamic game where you control a frog t
 1. Clone the repository to your local machine:
 
   ```
-   git clone <repository-url>
+   git clone <github.com/ShivamShah18/FrogieFeedingFrenzie>
   ```
 2. Navigate to the project directory:
    
